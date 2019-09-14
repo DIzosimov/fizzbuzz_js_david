@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url(https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img(11).jpg);
+    background-image: url(http://redpithemes.com/Documentation/assets/img/page_bg/page_bg_01.jpg);
     background-size: cover;
     font-family: sans-serif;
     font-size: 15px
@@ -50,6 +50,6 @@ h2{
 
 #display_answer {
     color: #ffffff;
-    font-size: 16px;
+    font-size: 30px;
 
 }
