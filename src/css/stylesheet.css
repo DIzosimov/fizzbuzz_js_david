@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img(11).jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    font-size: 15px
+}
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 500px;
+    box-sizing:border-box;
+    background:rgba(0, 0, 0, 0.5);
+    padding: 40px;
+}
+
+h2{
+    margin: 0;
+    padding: 0 0 20px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+#value{
+    border:none;
+    border-bottom: 1px solid #ffffff;
+    background-color: transparent;
+    outline: none;
+    height: 20px;
+    color: #ffffff;
+    display: 16px;
+    font-size: 14px;
+}
+
+#button {
+    border: none;
+    height: 40px;
+    width: 100px;
+    outline: none;
+    color: #ffffff;
+    background-color: tomato;
+    cursor: pointer;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+#display_answer {
+    color: #ffffff;
+    font-size: 16px;
+
+}
